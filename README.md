@@ -1,6 +1,6 @@
 # Calculator - Python
 
-- Python
+- Python (Python3)
 - Visual Studio Code (IDE VSCode)
  
 # Tính Năng:
